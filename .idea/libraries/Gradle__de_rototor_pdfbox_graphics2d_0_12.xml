@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: de.rototor.pdfbox:graphics2d:0.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="de.rototor.pdfbox" artifactId="graphics2d" version="0.12" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.rototor.pdfbox/graphics2d/0.12/7df4072cd4d94233bdb9921b07ebaeb8a8508603/graphics2d-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

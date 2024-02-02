@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ous:jtoml:2.0.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.ous" artifactId="jtoml" version="2.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/2085505b2b173e14b2a7702edd703ce185fd6206/jtoml-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

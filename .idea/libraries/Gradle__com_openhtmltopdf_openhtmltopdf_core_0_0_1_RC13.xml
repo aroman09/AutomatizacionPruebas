@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.openhtmltopdf:openhtmltopdf-core:0.0.1-RC13" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.openhtmltopdf" artifactId="openhtmltopdf-core" version="0.0.1-RC13" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-core/0.0.1-RC13/2d3108c06026884114f56c85d2a3db72a6da7d12/openhtmltopdf-core-0.0.1-RC13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

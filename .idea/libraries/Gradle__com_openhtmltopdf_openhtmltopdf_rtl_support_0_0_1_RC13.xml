@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.openhtmltopdf:openhtmltopdf-rtl-support:0.0.1-RC13" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.openhtmltopdf" artifactId="openhtmltopdf-rtl-support" version="0.0.1-RC13" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC13/bc23d414d5b5c888d35b76d2f53e3ba2d69952c3/openhtmltopdf-rtl-support-0.0.1-RC13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

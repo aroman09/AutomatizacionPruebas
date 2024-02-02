@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.openhtmltopdf:openhtmltopdf-jsoup-dom-converter:0.0.1-RC13" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.openhtmltopdf" artifactId="openhtmltopdf-jsoup-dom-converter" version="0.0.1-RC13" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC13/2887c313e229da6667bd18c3698959191b6da787/openhtmltopdf-jsoup-dom-converter-0.0.1-RC13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

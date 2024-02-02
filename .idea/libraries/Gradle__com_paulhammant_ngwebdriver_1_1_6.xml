@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paulhammant:ngwebdriver:1.1.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.paulhammant" artifactId="ngwebdriver" version="1.1.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulhammant/ngwebdriver/1.1.6/9785bdd139c4b8fb0189142f3cc57b6b9e22d611/ngwebdriver-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

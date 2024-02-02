@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vladsch.flexmark:flexmark-ext-aside:0.34.30" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.vladsch.flexmark" artifactId="flexmark-ext-aside" version="0.34.30" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-aside/0.34.30/bec28d073c7acb4c98498d5644553fb5f2c9dba5/flexmark-ext-aside-0.34.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serenitybdd.iml" filepath="$PROJECT_DIR$/serenitybdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serenitybdd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/serenitybdd.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serenitybdd.test.iml" filepath="$PROJECT_DIR$/.idea/modules/serenitybdd.test.iml" />
+    </modules>
+  </component>
+</project>

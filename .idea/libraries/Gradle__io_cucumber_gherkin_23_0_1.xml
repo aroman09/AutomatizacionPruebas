@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:gherkin:23.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.cucumber" artifactId="gherkin" version="23.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/23.0.1/477ffd34b7f268f8eac9e9ffd294f1bc08dd5db4/gherkin-23.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
